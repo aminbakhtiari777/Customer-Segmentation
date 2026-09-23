@@ -1,0 +1,7 @@
+{
+  "samples": 200,
+  "clusters": 5,
+  "inertia": 65.56840815571681,
+  "silhouette": 0.5546571631111091,
+  "davies_bouldin": 0.5722356162263352
+}
